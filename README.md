@@ -1,2 +1,6 @@
-# hello-world
-Hi this repository is for testing &amp; learning
+Hi Humans
+===============
+
+Here We are telling you initial components required for you project
+
+===========================
